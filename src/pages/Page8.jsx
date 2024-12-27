@@ -58,7 +58,7 @@ const Page8 = () => {
     <div className="h-[155vh] p-3 relative ">
       <img
         id="page8img"
-        src="/src/assets/Page8img.png"
+        src="https://drive.google.com/file/d/1smD-z2bQKxClsatjevfwE9H5lmHkahtr/view?usp=drive_link"
         className="absolute top-[31vw] left-[6vw] h-[30vw]"
       />
       <div className="shadow-lg overflow-hidden  shadow-gray-600 h-full w-full rounded-[30px] bg-black">

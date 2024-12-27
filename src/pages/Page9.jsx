@@ -49,12 +49,12 @@ useGSAP(()=>{
          src='https://static.wixstatic.com/media/f1c650_a15cf84ef5d546bd980d228833ef2f8e~mv2.png/v1/fill/w_1349,h_762,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Subtract%20(1).png'
           alt=""
         />
-        <img id='astoman' className='absolute z-[12] top-28 h-[30vw] w-auto' src="/src/assets/astoman.png" alt="" />
+        <img id='astoman' className='absolute z-[12] top-28 h-[30vw] w-auto' src="https://drive.google.com/file/d/1kBVwf_0P4epaldRi_hlehALh4Ey0sPkp/view?usp=drive_link" alt="" />
       </div>
     <div className="h-[100vh] p-3 relative">
-    <div className="shadow-lg overflow-hidden shadow-gray-600 h-full w-full rounded-[30px] bg-[url(https://static.wixstatic.com/media/f1c650_1baf8f9dcad444669565ec73ee697a92~mv2.jpg/v1/fill/w_1856,h_861,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Background%20Anzo_Studio.jpg)] bg-cover">
-    <video className='w-full h-full bg-center object-cover'  autoPlay loop muted src="/src/assets/file3.mp4"></video>
-    <video className='absolute top-10 right-[10%]' autoPlay loop muted src="/src/assets/file2.mp4" ></video>
+    <div className="shadow-lg overflow-hidden shadow-gray-600 h-full w-full rounded-[30px]">
+    <video className='w-full h-full bg-center object-cover'  autoPlay loop muted src="https://video.wixstatic.com/video/11062b_cb0c4d13153f4008920bb26beda8de0f/720p/mp4/file.mp4"></video>
+    <video className='absolute top-10 right-[10%]' autoPlay loop muted src="https://video.wixstatic.com/video/11062b_92619c730c4b4b0bb27ea39c4276a52b/480p/mp4/file.mp4" ></video>
     <div className='flex items-center justify-center absolute h-full w-full top-4 flex-col'>
         <div className='text-center'>
         <h1 className='text-[12vw] tracking-wide font-[anzo6] leading-[6vw]'>PERSONAL</h1>

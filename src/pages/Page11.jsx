@@ -7,9 +7,9 @@ const Page11 = () => {
         <h1 className='text-[42vw] tracking-[2px] text-black uppercase font-[anzo6]'>skills</h1>
     </div> */}
     <div className="h-[100vh] p-3 relative">
-    <div className="shadow-lg overflow-hidden shadow-gray-600 h-full w-full rounded-[30px] bg-[url(https://static.wixstatic.com/media/f1c650_1baf8f9dcad444669565ec73ee697a92~mv2.jpg/v1/fill/w_1856,h_861,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Background%20Anzo_Studio.jpg)] bg-cover">
-    <video className='w-full h-full bg-center object-cover'  autoPlay loop muted src="/src/assets/file4.mp4"></video>
-    <video className='absolute top-10 right-[10%]' autoPlay loop muted src="/src/assets/file2.mp4" ></video>
+    <div className="shadow-lg overflow-hidden shadow-gray-600 h-full w-full rounded-[30px] ">
+    <video className='w-full h-full bg-center object-cover'  autoPlay loop muted src="https://video.wixstatic.com/video/11062b_fc7c8b8125a94b69ad7cad3b24a8093a/720p/mp4/file.mp4"></video>
+    <video className='absolute top-10 right-[10%]' autoPlay loop muted src="https://video.wixstatic.com/video/11062b_92619c730c4b4b0bb27ea39c4276a52b/480p/mp4/file.mp4" ></video>
     <div className='flex items-center justify-center absolute h-full w-full top-4 flex-col'>
         <div className='text-center'>
         <h1 className='text-[12vw] tracking-wide font-[anzo6] leading-[6vw]'>PERSONAL</h1>

@@ -11,7 +11,7 @@ const Page4 = () => {
             <h1 className="text-[20vw] uppercase font-[anzo6] tracking-wide leading-[1vw]">i do</h1>
           </div>
           <div className="h-full w-1/2">
-          <video className='w-full h-full object-cover' autoPlay loop muted src="/src/assets/file2.mp4"></video>
+          <video className='w-full h-full object-cover' autoPlay loop muted src="https://video.wixstatic.com/video/11062b_92619c730c4b4b0bb27ea39c4276a52b/480p/mp4/file.mp4"></video>
           </div>
           </div>
           <div className="mt-10 ml-16">
