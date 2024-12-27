@@ -111,7 +111,7 @@ const page7 = () => {
               micro-management, marketing research, and hiring a whole team of a
               larger agency.
             </h1>
-            <div className="flex h-[5vw]  mt-14 font-[anzo6] ml-16">
+            <div className="flex h-[5vw]  mt-8 font-[anzo6] ml-16">
               <img
                 id="icon2"
                 src="https://static.wixstatic.com/media/f1c650_027515148725478cbb3a91eca452cabf~mv2.png/v1/fill/w_81,h_81,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/EARTH.png"
@@ -131,7 +131,7 @@ const page7 = () => {
                 and minimalistic touch.
               </span>
             </h1>
-            <div className="flex justify-center h-[5vw]  mt-14 font-[anzo6] ml-16">
+            <div className="flex justify-center h-[5vw]  mt-8 font-[anzo6] ml-16">
               <img
                 id="icon3"
                 src="https://static.wixstatic.com/media/f1c650_b0000fd9a706421aa0ea84da62ae3354~mv2.png/v1/fill/w_83,h_83,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/START%20UP.png"

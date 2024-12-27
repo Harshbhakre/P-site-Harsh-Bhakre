@@ -49,7 +49,7 @@ useGSAP(()=>{
          src='https://static.wixstatic.com/media/f1c650_a15cf84ef5d546bd980d228833ef2f8e~mv2.png/v1/fill/w_1349,h_762,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Subtract%20(1).png'
           alt=""
         />
-        <img id='astoman' className='absolute z-[12] top-28 h-[30vw] w-auto' src="../assets/astoman.png" alt="" />
+        <img id='astoman' className='absolute z-[12] top-28 h-[30vw] w-auto' src="/src/assets/astoman.png"  alt="" />
       </div>
     <div className="h-[100vh] p-3 relative">
     <div className="shadow-lg overflow-hidden shadow-gray-600 h-full w-full rounded-[30px]">
